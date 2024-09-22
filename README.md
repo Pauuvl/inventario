@@ -20,4 +20,5 @@ Al ejecutar tendrás las siguientes opciones:
 5. Salir: Termina el programa
 
 Video:
-https://eafit-my.sharepoint.com/:v:/g/personal/pvelasquel_eafit_edu_co/EcTjfBiWP1VAs8WkneYQEugBBphlfegaRjPkOGJGUOAK9g?e=caybto
+https://eafit-my.sharepoint.com/:f:/g/personal/pvelasquel_eafit_edu_co/EqcYzZaFP9lCkQnudBKClxYB4lKIsO56SMXUYiFs2MPm0w?e=hjX0mH
+
